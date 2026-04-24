@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Prashant Shrivastava</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#8A2BE2;">Prashant Shrivastava</span>
+</h1>
+
 <h3 align="center">🚀 Full Stack Developer | GenAI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -16,19 +19,32 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;GenAI+Builder;Python+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;GenAI+Builder;React+Developer;Python+Developer&center=true&width=500&height=50">
 </p>
 
 ---
 
 ## 🌟 About Me
 
+<table>
+<tr>
+<td width="60%">
+
 - 💻 Passionate about **Full Stack Development & GenAI**
 - ⚡ Building real-world impactful projects
 - 🚀 Currently working on:
   - Rapido Clone 🚗 (In Progress)
 - 🧠 Learning: **React + Python + AI Integration**
-- 💬 Ask me about: React, Node.js, Python, AI Projects
+- 💬 Ask me about: React, Node.js, Python, AI
+
+</td>
+
+<td width="40%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -90,25 +106,15 @@
 
 ### 🛒 E-Commerce Full Stack
 - Complete shopping platform with authentication & cart  
-- Tech: React, Node.js, MongoDB  
-
----
 
 ### 🤖 AI Study Buddy
 - AI-powered learning assistant  
-- Tech: React, Python, OpenAI API  
-
----
 
 ### 📚 DigiSathi
-- Digital literacy platform with chatbot & learning modules  
-- Tech: React, Tailwind CSS, Node.js  
-
----
+- Digital literacy platform with chatbot  
 
 ### 🚗 Rapido Clone (Working)
-- Real-time ride booking system (User + Driver)  
-- Tech: React, Node.js, Socket.io  
+- Real-time ride booking system  
 
 ---
 
@@ -130,4 +136,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I build things that actually solve real problems 😎
+> Code. Build. Learn. Repeat. 🚀
