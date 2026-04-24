@@ -27,9 +27,7 @@
 
 ---
 
-<p align="center">
-  <b style="color:#a78bfa;">" Code. Build. Learn. Repeat. "</b>
-</p>
+
 
 ---
 
