@@ -50,7 +50,7 @@
 </td>
 
 <td width="40%">
-<img src="https://github.com/prashant-018/prashant-018/blob/main/assets/about.png" width="100%" style="border-radius:10px;">
+<img src="https://raw.githubusercontent.com/prashant-018/prashant-018/main/about.png" width="100%" style="border-radius:10px;">
 </td>
 
 </tr>
@@ -60,11 +60,17 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
+### 💻 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+---
+
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
@@ -85,7 +91,7 @@
 
 ---
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
@@ -97,7 +103,7 @@
 
 ---
 
-### 🧰 Utilities
+### 🧰 Tools
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -108,10 +114,10 @@
 
 ## 🚀 Featured Projects
 
-- 🛒 **E-Commerce Full Stack**
-- 🤖 **AI Study Buddy**
-- 📚 **DigiSathi**
-- 🚗 **Rapido Clone (In Progress)**
+- 🛒 **E-Commerce Full Stack**  
+- 🤖 **AI Study Buddy**  
+- 📚 **DigiSathi**  
+- 🚗 **Rapido Clone (In Progress)**  
 
 ---
 
