@@ -1,18 +1,21 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="color:#8A2BE2;">Prashant Shrivastava</span>
+  👋 Hi, I'm <span style="color:#c084fc;">Prashant Shrivastava</span>
 </h1>
 
 <h3 align="center">🚀 Full Stack Developer | GenAI Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <a href="mailto:prashantshrivatava651@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/prashant-018">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge">
   </a>
 </p>
 
@@ -24,23 +27,30 @@
 
 ---
 
+<p align="center">
+  <b style="color:#a78bfa;">" Code. Build. Learn. Repeat. "</b>
+</p>
+
+---
+
 ## 🌟 About Me
 
 <table>
 <tr>
+
 <td width="60%">
 
-- 💻 Passionate about **Full Stack Development & GenAI**
-- ⚡ Building real-world impactful projects
-- 🚀 Currently working on:
-  - Rapido Clone 🚗 (In Progress)
-- 🧠 Learning: **React + Python + AI Integration**
-- 💬 Ask me about: React, Node.js, Python, AI
+- 🔍 Passionate about building intelligent full-stack applications  
+- ⚡ Skilled in modern web technologies & DevOps practices  
+- 🚀 Currently working on: Rapido Clone (Real-time App)  
+- 📚 Exploring: GenAI, Cloud & System Design  
+- 💡 Always learning, always building  
+- 💬 Ask me about Web Dev, AI, or anything tech  
 
 </td>
 
 <td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
+<img src="https://github.com/prashant-018/prashant-018/blob/main/assets/about.png" width="100%" style="border-radius:10px;">
 </td>
 
 </tr>
@@ -48,40 +58,34 @@
 
 ---
 
-## 🛠️ My Tech Universe
+## 🛠️ Tech Stack
 
-### 💻 Languages
+### 🚀 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
----
-
-### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-cyan?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
 
 ---
 
-### 🔧 Backend
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express-darkgrey?style=for-the-badge&logo=express)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
-![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
+![Prisma](https://img.shields.io/badge/Prisma-blue?style=for-the-badge&logo=prisma)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
@@ -93,9 +97,9 @@
 
 ---
 
-### 🧰 Tools
+### 🧰 Utilities
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
@@ -104,17 +108,10 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Full Stack
-- Complete shopping platform with authentication & cart  
-
-### 🤖 AI Study Buddy
-- AI-powered learning assistant  
-
-### 📚 DigiSathi
-- Digital literacy platform with chatbot  
-
-### 🚗 Rapido Clone (Working)
-- Real-time ride booking system  
+- 🛒 **E-Commerce Full Stack**
+- 🤖 **AI Study Buddy**
+- 📚 **DigiSathi**
+- 🚗 **Rapido Clone (In Progress)**
 
 ---
 
@@ -136,4 +133,4 @@
 ---
 
 ## ⚡ Fun Fact
-> Code. Build. Learn. Repeat. 🚀
+> Focus. Build. Deploy. Repeat. 🚀
