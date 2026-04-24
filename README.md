@@ -19,7 +19,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;GenAI+Builder;React+Developer;Python+Developer&center=true&width=500&height=50">
