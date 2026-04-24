@@ -32,12 +32,14 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Universe
 
 ### 💻 Languages
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 
 ---
@@ -52,45 +54,61 @@
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge&logo=fastapi)
+![Prisma](https://img.shields.io/badge/Prisma-darkblue?style=for-the-badge&logo=prisma)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
 ---
 
-### 🗄️ Database
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
 
 ---
 
-### ☁️ Tools & Platforms
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
+![Render](https://img.shields.io/badge/Render-purple?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?style=for-the-badge&logo=digitalocean)
+
+---
+
+### 🧰 Tools
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
+![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Full Stack
-- Complete shopping platform with authentication & cart
-- Tech: React, Node.js, MongoDB
+- Complete shopping platform with authentication & cart  
+- Tech: React, Node.js, MongoDB  
 
 ---
 
 ### 🤖 AI Study Buddy
-- AI-powered learning assistant for students
-- Tech: React, Python, OpenAI API
+- AI-powered learning assistant  
+- Tech: React, Python, OpenAI API  
 
 ---
 
 ### 📚 DigiSathi
-- Digital literacy platform with chatbot & learning modules
-- Tech: React, Tailwind CSS, Node.js
+- Digital literacy platform with chatbot & learning modules  
+- Tech: React, Tailwind CSS, Node.js  
 
 ---
 
 ### 🚗 Rapido Clone (Working)
-- Real-time ride booking system (User + Driver)
-- Tech: React, Node.js, Socket.io
+- Real-time ride booking system (User + Driver)  
+- Tech: React, Node.js, Socket.io  
 
 ---
 
@@ -112,4 +130,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I build things that actually solve problems 😎
+> I build things that actually solve real problems 😎
