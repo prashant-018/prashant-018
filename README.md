@@ -1,4 +1,4 @@
- <h1 align="center">👋 Hi, I'm Prashant Shrivastava</h1>
+<h1 align="center">👋 Hi, I'm Prashant Shrivastava</h1>
 <h3 align="center">🚀 Full Stack Developer | GenAI Enthusiast | Problem Solver</h3>
 
 <p align="center">
@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;GenAI+Learner;Building+Cool+Projects&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+Developer;GenAI+Builder;Python+Developer&center=true&width=500&height=50">
 </p>
 
 ---
@@ -24,13 +24,11 @@
 ## 🌟 About Me
 
 - 💻 Passionate about **Full Stack Development & GenAI**
-- ⚡ Building real-world projects that solve problems
+- ⚡ Building real-world impactful projects
 - 🚀 Currently working on:
-  - Rapido Clone 🚗
-  - Smart Health Adviser 🏥
-  - Crop Prediction 🌾
-- 🧠 Learning: **DevOps, System Design, AI Integration**
-- 💬 Ask me about: React, Node.js, AI Projects
+  - Rapido Clone 🚗 (In Progress)
+- 🧠 Learning: **React + Python + AI Integration**
+- 💬 Ask me about: React, Node.js, Python, AI Projects
 
 ---
 
@@ -46,7 +44,6 @@
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
 
@@ -55,7 +52,6 @@
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
 ---
 
@@ -64,28 +60,37 @@
 
 ---
 
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-blue?style=for-the-badge&logo=githubactions)
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-green?style=for-the-badge&logo=netlify)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 Rapido Clone
-- Ride booking app with real-time tracking  
-- Tech: React, Node.js, Socket.io  
+### 🛒 E-Commerce Full Stack
+- Complete shopping platform with authentication & cart
+- Tech: React, Node.js, MongoDB
 
-### 🏥 Smart Health Adviser
-- AI-powered health assistant  
-- Tech: React, FastAPI  
+---
 
-### 🌾 Crop Prediction
-- ML-based crop yield prediction  
-- Tech: Python, Pandas  
+### 🤖 AI Study Buddy
+- AI-powered learning assistant for students
+- Tech: React, Python, OpenAI API
+
+---
+
+### 📚 DigiSathi
+- Digital literacy platform with chatbot & learning modules
+- Tech: React, Tailwind CSS, Node.js
+
+---
+
+### 🚗 Rapido Clone (Working)
+- Real-time ride booking system (User + Driver)
+- Tech: React, Node.js, Socket.io
 
 ---
 
@@ -107,4 +112,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I don't chase tech — tech chases me 😎
+> I build things that actually solve problems 😎
